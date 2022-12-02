@@ -1,8 +1,8 @@
 export class Edit {
 
-    old_password = ''
-    new_password = ''
-    reNew_password = ''
+    old_password = '#password_current'
+    new_password = '#password_1'
+    reNew_password = '#password_2'
 
 
     EnterOldPass(oldPass) {
